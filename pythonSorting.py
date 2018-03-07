@@ -23,7 +23,6 @@ def ascending(dataToSort):
             # else then just add it to the end
             dataSorted += dataToSort[i]
 
-    print(dataSorted)
     return dataSorted
 
 
